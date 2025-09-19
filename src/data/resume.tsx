@@ -27,7 +27,7 @@ export const DATA = {
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    { href: "/blog", icon: NotebookIcon, label: "Blog" },
+    { href: "https://medium.com/@parth.shrivastava51", icon: Icons.medium, label: "Medium" },
   ],
   contact: {
     email: "parth.r.shrivastava@gmail.com",
